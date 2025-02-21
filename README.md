@@ -16,6 +16,8 @@ Bu çalışmada **makine öğrenimi ve veri analizi teknikleri kullanılarak** k
 ## 🔧 Kullanılan Teknolojiler
 - **Python, PySpark, Pandas, NumPy, Matplotlib, Seaborn**
 - **LightGBM (Gradient Boosting)**
+- **XGBoost**
+- **CatBoost**
 - **Makine Öğrenimi & Veri Analizi**
 
 ## 📌 Nasıl Çalıştırılır?
@@ -49,6 +51,8 @@ In this study, a machine learning model was developed using **data analysis tech
 ## 🔧 Technologies Used
 - **Python, PySpark, Pandas, NumPy, Matplotlib, Seaborn**
 - **LightGBM (Gradient Boosting)**
+- **XGBoost**
+- **CatBoost**
 - **Machine Learning & Data Analysis**
 
 ## 📌 How to Run?
